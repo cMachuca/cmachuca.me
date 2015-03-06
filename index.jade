@@ -1,0 +1,5 @@
+
+for post, slug in public.posts._data
+
+  li.post-list #{post.date} - 
+    a(href="/posts/#{ slug }") #{post.title} 

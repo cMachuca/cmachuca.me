@@ -1,0 +1,12 @@
+{
+  "my-second-post": {
+    "date" : "04/Mar/2015",
+    "title": "My second post",
+    "by" : "cMachuca"
+  },
+  "my-first-post": {
+    "date" : "02/Mar/2015",
+    "title": "My first post",
+    "by" : "cMachuca"
+  }
+}
